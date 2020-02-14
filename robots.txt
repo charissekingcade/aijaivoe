@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://orailooqu.webignition.net/sitemap.xml
